@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pritam-Ghosh99
+- 👋 Hi, I’m PRITAM.
 - 👀 I’m interested in Web Development 
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me ..
